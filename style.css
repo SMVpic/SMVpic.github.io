@@ -1,0 +1,74 @@
+body {
+    font-family: "Manrope";
+    src: url(../Desktop/Manrope-VariableFont_wght.ttf);
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+h1 {
+    color: #000000;
+    font-size: 32px;
+    text-align: left;
+    font-weight: 800;
+}
+
+#name_vacation p {
+    font-size: 24px;
+    color: black;
+    text-align: left;
+    font-weight: 600;
+
+}
+
+.navigation aside h3 {
+    text-align: justify;
+    color: black;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.profile aside ul {
+    font-size: 16px;
+    color: black;
+    text-align: justify;
+    font-weight: 300;
+}
+
+.text main span {
+    font-size: 18px;
+    color: black;
+    text-align: left;
+    font-weight: 500;
+}
+
+#main_h main h2 {
+    font-size: 20px;
+    color: black;
+    text-align: left;
+    font-weight: 800;
+}
+
+#history main h2 {
+    font-size: 20px;
+    color: black;
+    text-align: left;
+    font-style: italic;
+    font-weight: 500;
+}
+
+#second_h main h2 {
+    font-size: 20px;
+    color: black;
+    text-align: left;
+    font-weight: 500;
+}
+
+.bullets main ul {
+    font-size: 16px;
+    color: black;
+    text-align: left;
+    font-weight: 300;
+}
